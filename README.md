@@ -24,3 +24,14 @@ Repository for a deep learning project "Chest Radiograph Analyser", The intentio
 #### UI1, UI2, UI3, UI4 are the scrshots of the User Interface created and Working Video is the Demo Video of User-Interface.
 
 ### For more details refer to ACRA_PPT.pdf
+
+### User Interface Screenshots:-
+
+![UI1.png](https://github.com/shivamkalra13/Chest-Radiograph-Analyser/blob/master/UI1.png)
+
+![UI2.png](https://github.com/shivamkalra13/Chest-Radiograph-Analyser/blob/master/UI2.png)
+
+![UI3.png](https://github.com/shivamkalra13/Chest-Radiograph-Analyser/blob/master/UI3.PNG)
+
+![UI4.png](https://github.com/shivamkalra13/Chest-Radiograph-Analyser/blob/master/UI4.PNG)
+
